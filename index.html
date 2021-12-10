@@ -6,12 +6,15 @@ layout: default
   <article class="book">
     <figure class="book-cover">
       <a href="{{ book.link }}">
-        <img src="./images/{{ book.image }}" alt="{{ book.title }}">
+        <img src="./images/{{ book.image | default: 'default.jpg' }}" alt="{{ book.title }}">
       </a>
     </figure>
     <div class="book-info">
       <h2>{{ book.title }}</h2>
-      <p>{{ book.author }}</p>
+      <p><strong>{{ book.author }}</strong></p>
+      {% if book.when %}
+      <p>{{ book.when }}</p>
+      {% endif %}
     </div>
   </article>
   {% endfor %}
