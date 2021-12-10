@@ -1,17 +1,16 @@
 # Site settings
-title: Library Jekyll Theme
+title: Figarocorso Bookshelf
 email: your-email@domain.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: ""
-url: "http://example.com"
+  Figarocorso Virtual Bookshelf.
+  A visual timeline of the books I've been reading.
+baseurl: "/figarocorso-bookshelf"
+url: "https://migueljulian.com"
 
 # Collections
-#collections:
-#  books:
-#    output: false
+collections:
+  books:
+    output: false
 
 sass:
   style: compressed
