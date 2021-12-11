@@ -1,35 +1,183 @@
-- title: Mi biblioteca
-  author: Miguel Julián
-  image:
-  link:
-  when: March 2020
+- title: Una educación
+  author: Tara Westover
+  image: unaeducacion.jpg
+  when: Septiembre 2021
+
+- title: Las siete muertes de Evelyn Hardcastle
+  author: Stuart Turton
+  image: sietemuertes.jpg
+  when: Agosto 2021
+
+- title: El perfume. Historia de un asesino
+  author: Patrick Süskind
+  image: elperfume.jpg
+  when: Julio 2021
+  audiobook: true
+
+- title: David Copperfield
+  author: Charles Dickens
+  image: copperfield.jpg
+  when: Julio 2021
+  audiobook: true
+
+- title: Los pazos de Ulloa
+  author: Emilia Pardo Bazán
+  image: lospazosdeulloa.jpg
+  when: Junio 2021
+
+- title: Padre, el último mono
+  author: Berto Romero
+  image: elultimomono.jpg
+  when: Enero 2021
+
+- title: Relatos de perros
+  author: Varios autores japoneses
+  when: Enero 2021
+
+- title: La mala leche
+  author: Henar Álvarez
+  image: lamalaleche.jpg
+  when: Diciembre 2020
+
+- title: Rey Blanco
+  author: Juan Gómez-Jurado
+  image: reyblanco.jpg
+  when: Noviembre 2020
+
+- title: Machismo. 8 pasos para quitártelo de encima 
+  author: Barbijaputa
+  image: machismo.jpg
+  when: Julio 2020
+
+- title: El gourmet solitario
+  author: Masayuki Kusumi
+  image: elgourmetsolitario.jpg
+  when: Julio 2020
+
+- title: 30 Días - Cambia de hábitos, cambia de vida
+  author: Marc Reklau
+  image: cambiadehabitos.jpg
+  when: Junio 2020
+
+- title: El amor en los tiempos del cólera
+  author: Gabriel García Márquez
+  image: colera.jpg
+  when: Mayo 2020
+  audiobook: true
+
+- title: El Conde de Montecristo
+  author: El Conde de Montecristo
+  image: montecristo.jpg
+  when: Abril 2020
+  audiobook: true
+
+- title: El principito
+  author: Antoine de Saint-Exupéry
+  image: elprincipito.jpg
+  when: Abril 2020
+  audiobook: true
+
+- title: El arte de la guerra
+  author: Sun Tzu
+  image: elartedelaguerra.jpg
+  when: Abril 2020
+  audiobook: true
+
+- title: Amor con ojeras
+  author: Mamen Jiménez Lapsicomami
+  image: amorconojeras.jpg
+  when: Marzo 2020
+
+- title: Loba negra
+  author: Juan Gómez-Jurado
+  image: lobanegra.jpg
+  when: 2020
+
+- title: Reina roja
+  author: Juan Gómez-Jurado
+  image: reinaroja.jpg
+  when: 2019
+
+- title: El último deseo
+  author: Andrzej Sapkowski
+  image: elultimodeseo.jpg
+  when: Agosto 2019
+
+- title: La espada del destino
+  author: Andrzej Sapkowski
+  image: laespadadeldestino.jpg
+  when: 2018
+
+- title: Ensayo sobre la ceguera
+  author: José Saramago
+  when: Febrero 2018
+  image: ensayosobrelaceguera.jpg
+  audiobook: true
+
+- title: El temor de un hombre sabio
+  author: Patrick Rothfuss
+  image: eltemordeunhombresabio.jpg
+  when: Diciembre 2017
+
+- title: El nombre del viento
+  author: Patrick Rothfuss
+  image: elnombredelviento.jpg
+  when: Noviembre 2017
+
+- title: El último argumento de los reyes
+  author: Joe Abercrombie
+  image: argumentodelosreyes.jpg
+  when: Agosto 2017
+
+- title: Antes de que los cuelguen
+  author: Joe Abercrombie
+  image: antesdequeloscuelguen.jpg
+  when: Julio 2017
+
+- title: El cuento de la isla desconocida
+  when: Julio 2017
+  author: José Saramago
+  image: isladesconocida.jpg
+  audiobook: true
+
+- title: El guardián entre el centeno
+  author: J.D. Salinger
+  when: Junio 2017
+  image: guardianentreelcenteno.jpg
+  audiobook: true
+
+- title: La voz de las espadas
+  author: Joe Abercrombie
+  image: lavozdelasespadas.jpg
+  when: Mayo 2017
+
+- title: American Gods
+  author: Neil Gaiman
+  image: americangods.jpg
+  when: Abril 2017
+
+- title: 1984
+  author: George Orwell
+  image: 1984.jpg
+  when: Abril 2017
+  audiobook: true
 
 - title: Ready Player One
   author: Ernest Cline
   image: readyplayerone.jpg
-  link:
+  when: Febrero 2017
 
-- title: The Revenant
-  author: Michael Punke
-  image: therevenant.jpg
-  link:
+- title: Guía del autoestopista galáctico
+  author: Douglas Adams
+  image: autoestopistagalactico.jpg
+  when: Enero 2017
 
-- title: Wool
-  author: Hugh Howey
-  image: wool.jpg
-  link:
+- title: Cien años de soledad
+  author: Gabriel García Márquez
+  image: cienañosdesoledad.jpg
+  when: 2016
 
-- title: The Martian
-  author: Andy Weir
-  image: themartian.jpg
-  link:
-
-- title: The Man in the High Castle
-  author: Philip K Dick
-  image: themaninthehighcastle.jpg
-  link:
-
-- title: Deception Point
-  author: Dan Brown
-  image: deceptionpoint.jpg
-  link:
+- title: La sonrisa etrusca
+  author:  José Luis Sampedro
+  image: lasonrisaetrusca.jpg
+  when: 2016
