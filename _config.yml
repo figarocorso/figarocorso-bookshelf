@@ -1,16 +1,15 @@
 # Site settings
-title: Figarocorso Bookshelf
+title: Figarocorso Virtual Bookshelf
 email: your-email@domain.com
 description: >
-  Figarocorso Virtual Bookshelf.
   A visual timeline of the books I've been reading.
 baseurl: "/figarocorso-bookshelf"
 url: "https://migueljulian.com"
 
 # Collections
-collections:
-  books:
-    output: false
+# collections:
+#   books:
+#     output: false
 
 sass:
   style: compressed
