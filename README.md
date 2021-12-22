@@ -1,3 +1,5 @@
+I'm archiving this repo as I have moved the info here inside the main migueljulian.com repo
+
 # library-jekyll-theme
 
 Easily create a digital bookshelf of your favorite books.
